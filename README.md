@@ -10,7 +10,7 @@ Features:<br>
    -Product Creation Wizard<br>
    -Video Player with links<br>
    
- Installation:
+ Installation: <br>
     -run npm install for node_modules<br><br>
     -run composer install for the vendor<br><br>
     -Create a database schema named 'laravel'<br>
